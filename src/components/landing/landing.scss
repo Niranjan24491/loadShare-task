@@ -1,0 +1,14 @@
+.banner {
+  background: black;
+  min-height: 110px;
+
+  .title {
+    color: white;
+    margin: 0;
+  }
+}
+
+.create-category-container {
+  width: 100%;
+  display: flex;
+}
